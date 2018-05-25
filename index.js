@@ -35,7 +35,7 @@ function dec(a){
 }
 
 function makeInt(a){
- return makeInt(a.String)
+ return makeInt(a.toString())
   
 }
 
