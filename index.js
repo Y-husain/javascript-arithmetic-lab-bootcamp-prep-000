@@ -12,8 +12,6 @@ makeInt('3', 10)
 makeInt('Food', 2)
 preserveDecimal('39.999999')
 
-function  add (){
+function  add (a,b){
   return a+b
 }
-
-function sub
