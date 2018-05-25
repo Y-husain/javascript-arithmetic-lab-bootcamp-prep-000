@@ -35,7 +35,7 @@ function dec(a){
 }
 
 function makeInt(n){
- return makeInt(a.toString())
+ return parseInt(n,10)
   
 }
 
